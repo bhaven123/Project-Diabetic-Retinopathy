@@ -3,3 +3,9 @@ numpy
 pillow
 h5py
 gunicorn
+jupyterlab
+notebook
+matplotlib
+tensorflow-gpu
+Augmentor
+opencv-python

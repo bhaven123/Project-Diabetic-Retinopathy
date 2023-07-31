@@ -57,3 +57,8 @@ To run this project, you will need:
 
 - Bhaven Naik - [naikbhaven11@gmail.com](mailto:naikbhaven11@gmail.com) | Portfolio - [https://bhaven-naik.com/](https://bhaven-naik.com/)
 - Project Link: [https://github.com/bhaven123/Project-Diabetic-Retinopathy](https://github.com/bhaven123/Project-Diabetic-Retinopathy)
+
+## Acknowledgements
+
+- [VGG16](https://keras.io/api/applications/vgg/)
+- [Diabetic Retinopathy](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/diabetic-retinopathy?sso=y)
